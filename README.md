@@ -2,7 +2,7 @@
 <div align="center">
   
   <!-- Animated Typing Header -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+there!+I'm+Darpan+Giri+%F0%9F%91%8B;+AI%2F/ML+Enthusiast+%7C+Full+Stack+Developer+%7C+Data+Scientist+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+there!+I'm+Darpan+Giri+%F0%9F%91%8B;%7C+Full+Stack+Developer+%7C+Data+Scientist" alt="Typing SVG" /></a>
 
   <!-- Profile Views Counter -->
   <p>
