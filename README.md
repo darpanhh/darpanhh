@@ -2,7 +2,7 @@
 <div align="center">
   
   <!-- Animated Typing Header -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+there!+I'm+Darpan+Giri+%F0%9F%91%8B;AI%2FML+Enthusiast+%7C+Backend+Developer+%7C+Data+Scientist" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+there!+I'm+Darpan+Giri+%F0%9F%91%8B;AI%2F/ML+Enthusiast+%7C+Backend+Developer+%7C+Data+Scientist+Enthusiast" alt="Typing SVG" /></a>
 
   <!-- Profile Views Counter -->
   <p>
@@ -20,22 +20,11 @@
 <!-- About Me Section -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> About Me
 
-```python
-class DarpanGiri:
-    def __init__(self):
-        self.name = "Darpan Giri"
-        self.role = "AI/ML Enthusiast & Backend Developer"
-        self.location = "Nepal 🇳🇵"
-        self.education = "Computer Science Student"
-        self.currently_learning = ["Deep Learning", "GenAI", "LangChain"]
-        self.interests = ["Machine Learning", "Data Science", "Backend Development"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together! 🚀")
+### 👋 Hello, I'm Darpan Giri!
+I am a passionate technology enthusiast specializing in **AI/ML**, **Data Science**, and **Full Stack Development**. I thrive on turning complex problems into elegant solutions through code and data-driven insights. Whether I'm building scalable backend systems or training deep learning models, my goal is always to create meaningful impact through technology.
 
-me = DarpanGiri()
-me.say_hi()
-```
+
+
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -56,7 +45,7 @@ me.say_hi()
 
 <div align="center">
 
-### 🧠 AI / ML / Data Science
+### 🧠 AI / ML / Data Science Enthusiast
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
@@ -69,7 +58,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge" />
 </p>
 
-### 💻 Backend & Web Development
+### 💻 Full Stack Web Development Enthusiast
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
