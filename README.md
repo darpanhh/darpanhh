@@ -106,7 +106,6 @@ I am a passionate technology enthusiast specializing in **AI/ML**, **Data Scienc
   <img src="https://img.shields.io/badge/AI%20Powered-FF6F00?style=flat-square" />
   <img src="https://img.shields.io/badge/Disease%20Detection-4CAF50?style=flat-square" />
   <img src="https://img.shields.io/badge/Marketplace-2196F3?style=flat-square" />
-  <img src="https://img.shields.io/badge/Made%20in%20India-FF9933?style=flat-square" />
 </p>
 
 
