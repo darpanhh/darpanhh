@@ -94,7 +94,6 @@ I am a passionate technology enthusiast specializing in **AI/ML**, **Data Scienc
 
 <h3 align="center">🌾 Krishi Sahayogi</h3>
 <div align="center">
-  <a href="https://krishisahayogi.com" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge" alt="Live Demo"/>
   </a>
 </div>
