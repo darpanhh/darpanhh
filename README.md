@@ -2,7 +2,7 @@
 <div align="center">
   
   <!-- Animated Typing Header -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+there!+I'm+Darpan+Giri+%F0%9F%91%8B;+%7C+Full+Stack+Developer+%7C+Data+Scientist" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hey+there!+I'm+Darpan+Giri+%F0%9F%91%8B;+AI%2F/ML+Enthusiast+%7C+Full+Stack+Developer+%7C+Data+Scientist+Enthusiast" alt="Typing SVG" /></a>
 
   <!-- Profile Views Counter -->
   <p>
@@ -94,7 +94,8 @@ I am a passionate technology enthusiast specializing in **AI/ML**, **Data Scienc
 
 <h3 align="center">🌾 Krishi Sahayogi</h3>
 <div align="center">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-4CAF50?style=for-the-badge" alt="Live Demo"/>
+  <a href="https://github.com/darpanhh/Krishi-Sahayogi" target="_blank">
+    <img src="https://img.shields.io/badge/🔗_View_Repository-6C63FF?style=for-the-badge" alt="Repository"/>
   </a>
 </div>
 <p align="center">
@@ -107,9 +108,7 @@ I am a passionate technology enthusiast specializing in **AI/ML**, **Data Scienc
   <img src="https://img.shields.io/badge/Marketplace-2196F3?style=flat-square" />
   <img src="https://img.shields.io/badge/Made%20in%20India-FF9933?style=flat-square" />
 </p>
-<p align="center">
-  ✨ <em>Incubated at NIELIT Bhubaneswar</em>
-</p>
+
 
 </td>
 <td width="50%">
