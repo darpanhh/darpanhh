@@ -191,12 +191,12 @@ I am a passionate technology enthusiast specializing in **AI/ML**, **Data Scienc
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=darpanhh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=darpanhh&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" />
+  <img width="80%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=darpanhh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&timezone=Asia/Kathmandu&cache_seconds=86400" alt="GitHub Stats" />
+  <!-- <img width="49%" src="https://streak-stats.demolab.com/?user=darpanhh&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" alt="GitHub Streak" /> -->
   
   <br/>
   
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darpanhh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" />
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=darpanhh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" />
 
 </div>
 
@@ -207,13 +207,17 @@ I am a passionate technology enthusiast specializing in **AI/ML**, **Data Scienc
 </div>
 
 <!-- Contribution Snake -->
+<!-- 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darpanhh/darpanhh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darpanhh/darpanhh/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/darpanhh/darpanhh/output/github-contribution-grid-snake-dark.svg">
   </picture>
 </div>
+-->
+<!-- Note: The above Snake animation requires a GitHub Action to generate the svg files in an 'output' branch. 
+     Please set up the 'Platane/snk' action in your repository workflow to enable this. -->
 
 ---
 
